@@ -80,3 +80,30 @@ const Gallery = ({ images, width = '100%', height = 'auto', radius = 'xl', showT
 };
 
 export default Gallery;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
