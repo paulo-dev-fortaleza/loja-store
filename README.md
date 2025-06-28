@@ -32,17 +32,7 @@ loja-store/
 - [Node.js](https://nodejs.org/) (versão 16 ou superior)
 - [Git](https://git-scm.com/)
 
- 📥 CLONE E REPOSITÓRIO:
 
-```bash
-git clone https://github.com/paulo-dev-fortaleza/loja-store.git
-cd loja-store
-
-🤝 CONTRIBUIÇÕES:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou sugestões.
-
-📄 LICENÇA
-Este projeto está licenciado sob a licença MIT.
 
 
 
